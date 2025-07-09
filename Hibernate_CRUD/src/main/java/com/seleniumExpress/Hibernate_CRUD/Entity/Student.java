@@ -32,5 +32,7 @@ public class Student {
 	private Boolean married;
 	@Column(name="student_Salary")
 	private Long studentSalary;
+	
+
 
 }
