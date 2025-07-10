@@ -33,6 +33,8 @@ public class Student {
 	@Column(name="student_Salary")
 	private Long studentSalary;
 	
+	
+
 
 
 }
